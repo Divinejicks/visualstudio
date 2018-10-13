@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreManagementSystem", "StoreManagementSystem\StoreManagementSystem.csproj", "{F3E03A43-0A34-4355-85F4-7421378A6053}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.Presentation", "StoreManagementSystem\SMS.Presentation.csproj", "{F3E03A43-0A34-4355-85F4-7421378A6053}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{F5D230DD-32A6-476B-BB57-E60B5B95312F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{1F1042B7-0496-4FCD-9BAC-5E3D767778D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Register", "Register", "{702D4EAC-DA36-47AD-9306-9BF5579F0748}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F3E03A43-0A34-4355-85F4-7421378A6053} = {F5D230DD-32A6-476B-BB57-E60B5B95312F}
 	EndGlobalSection
 EndGlobal
