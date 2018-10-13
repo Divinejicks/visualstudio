@@ -1,0 +1,5 @@
+G:\Projects\StoreManagementSystem\Domain\SMS.Domain.Models\bin\Debug\SMS.Domain.Models.dll
+G:\Projects\StoreManagementSystem\Domain\SMS.Domain.Models\bin\Debug\SMS.Domain.Models.pdb
+G:\Projects\StoreManagementSystem\Domain\SMS.Domain.Models\obj\Debug\SMS.Domain.Models.csprojResolveAssemblyReference.cache
+G:\Projects\StoreManagementSystem\Domain\SMS.Domain.Models\obj\Debug\SMS.Domain.Models.dll
+G:\Projects\StoreManagementSystem\Domain\SMS.Domain.Models\obj\Debug\SMS.Domain.Models.pdb

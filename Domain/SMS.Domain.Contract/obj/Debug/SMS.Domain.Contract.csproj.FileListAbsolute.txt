@@ -1,0 +1,9 @@
+G:\Projects\StoreManagementSystem\Domain\SMS.Domain.Contract\bin\Debug\SMS.Domain.Contract.dll
+G:\Projects\StoreManagementSystem\Domain\SMS.Domain.Contract\bin\Debug\SMS.Domain.Contract.pdb
+G:\Projects\StoreManagementSystem\Domain\SMS.Domain.Contract\bin\Debug\SMS.Repository.Contract.dll
+G:\Projects\StoreManagementSystem\Domain\SMS.Domain.Contract\bin\Debug\SMS.Repository.Models.dll
+G:\Projects\StoreManagementSystem\Domain\SMS.Domain.Contract\bin\Debug\SMS.Repository.Contract.pdb
+G:\Projects\StoreManagementSystem\Domain\SMS.Domain.Contract\bin\Debug\SMS.Repository.Models.pdb
+G:\Projects\StoreManagementSystem\Domain\SMS.Domain.Contract\obj\Debug\SMS.Domain.Contract.csprojResolveAssemblyReference.cache
+G:\Projects\StoreManagementSystem\Domain\SMS.Domain.Contract\obj\Debug\SMS.Domain.Contract.dll
+G:\Projects\StoreManagementSystem\Domain\SMS.Domain.Contract\obj\Debug\SMS.Domain.Contract.pdb

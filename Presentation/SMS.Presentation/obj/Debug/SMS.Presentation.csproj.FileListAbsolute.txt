@@ -1,0 +1,10 @@
+G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\bin\Debug\SMS.Presentation.exe.config
+G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\bin\Debug\SMS.Presentation.exe
+G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\bin\Debug\SMS.Presentation.pdb
+G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\bin\Debug\SMS.Domain.Models.dll
+G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\bin\Debug\SMS.Domain.Models.pdb
+G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\obj\Debug\SMS.Presentation.csprojResolveAssemblyReference.cache
+G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\obj\Debug\SMS.Presentation.Properties.Resources.resources
+G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\obj\Debug\SMS.Presentation.csproj.GenerateResource.Cache
+G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\obj\Debug\SMS.Presentation.exe
+G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\obj\Debug\SMS.Presentation.pdb

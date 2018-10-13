@@ -1,0 +1,12 @@
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\SMS.RepositoryBase.dll
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\SMS.RepositoryBase.pdb
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\obj\Debug\SMS.RepositoryBase.csprojResolveAssemblyReference.cache
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\obj\Debug\SMS.RepositoryBase.dll
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\obj\Debug\SMS.RepositoryBase.pdb
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\SMS.RepositoryBase.dll.config
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\EntityFramework.dll
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\EntityFramework.SqlServer.dll
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\EntityFramework.xml
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\EntityFramework.SqlServer.xml
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\SMS.Repository.Contract.dll
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\SMS.Repository.Contract.pdb
