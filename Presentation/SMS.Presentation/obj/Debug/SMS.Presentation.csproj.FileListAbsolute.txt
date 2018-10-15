@@ -8,3 +8,7 @@ G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\obj\Debug\SMS.Pr
 G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\obj\Debug\SMS.Presentation.csproj.GenerateResource.Cache
 G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\obj\Debug\SMS.Presentation.exe
 G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\obj\Debug\SMS.Presentation.pdb
+G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\bin\Debug\EntityFramework.dll
+G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\bin\Debug\EntityFramework.SqlServer.dll
+G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\bin\Debug\EntityFramework.xml
+G:\Projects\StoreManagementSystem\Presentation\SMS.Presentation\bin\Debug\EntityFramework.SqlServer.xml

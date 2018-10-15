@@ -49,6 +49,10 @@
       <Project>{4c99fba9-4a87-43a9-9f8d-25fa55b14cfd}</Project>
       <Name>SMS.Domain.Models</Name>
     </ProjectReference>
+    <ProjectReference Include="..\SMS.Repository.Models\SMS.Repository.Models.csproj">
+      <Project>{5e0a601e-9874-4b7f-8d72-48e5505b72bf}</Project>
+      <Name>SMS.Repository.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

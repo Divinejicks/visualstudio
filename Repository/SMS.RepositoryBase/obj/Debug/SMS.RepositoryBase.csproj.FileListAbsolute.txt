@@ -10,3 +10,7 @@ G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\Entity
 G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\EntityFramework.SqlServer.xml
 G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\SMS.Repository.Contract.dll
 G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\SMS.Repository.Contract.pdb
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\SMS.Repository.Models.dll
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\bin\Debug\SMS.Repository.Models.pdb
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\obj\Debug\SMS.RepositoryBase.Migrations.init.resources
+G:\Projects\StoreManagementSystem\Repository\SMS.RepositoryBase\obj\Debug\SMS.RepositoryBase.csproj.GenerateResource.Cache
